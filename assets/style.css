@@ -1,0 +1,15 @@
+.root {
+
+}
+
+
+header {
+    text-emphasis: bold;
+    color: black;
+    size: 25px;
+}
+
+
+.jumbotron {
+    background-color: rgb(39, 99, 99);
+}
